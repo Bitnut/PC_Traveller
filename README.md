@@ -7,4 +7,4 @@ The game tells a story of a little little virus, whose memory has been lost sinc
 
 
 
-Tp play this gmae, the game player have to learn Linux-like orders step by step, since the game itself simulates the mode of Linux. 
+To play this gmae, the game player have to learn Linux-like orders step by step, since the game itself simulates the mode of Linux. 
